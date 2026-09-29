@@ -1,4 +1,4 @@
-# Mohibbul Haque, MBBS MPH MPhil
+# Mohibbul Haque, MBBS, MPH, MPhil
 
 ### Medical Doctor · Medical Epidemiologist · Public Health Researcher · Project Manager
 
