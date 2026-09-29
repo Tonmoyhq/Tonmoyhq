@@ -4,8 +4,6 @@
 
 I am a medical doctor and MPhil researcher in Preventive and Social Medicine based in Dhaka, Bangladesh. My research focuses on environmental and occupational epidemiology, cancer prevention, antimicrobial resistance, and evidence-informed public health practice.
 
-My MPhil thesis investigates the association between chemical exposure and leukaemia through a case-control study. I am interested in applying rigorous epidemiological methods and reproducible research practices to improve population health.
-
 ## Education
 
 - MPhil Candidate, Preventive and Social Medicine — National Institute of Preventive and Social Medicine (NIPSOM)
@@ -35,7 +33,7 @@ My MPhil research examines the association between chemical exposure and leukaem
 
 2. **Haque M** *(first and corresponding author)*, Karim MR, Shohid S, et al. *Physicians’ perceptions and practices on antimicrobial resistance in a tertiary care hospital in Bangladesh: a cross-sectional study.* **BMJ Open.** 2024;14(12):e087201. [DOI](https://doi.org/10.1136/bmjopen-2024-087201)
 
-3. Raquib OI, Sultana S, Khan MAS, et al. **Haque M**, et al. *Effect of health education on foot care knowledge and practice of patients with type 2 diabetes in rural Bangladesh.* **BMC Primary Care.** 2026;27(1):157. [DOI](https://doi.org/10.1186/s12875-026-03277-7)
+3. Raquib OI, Sultana S, Khan MAS, Prince GD, **Haque M**, et al. *Effect of health education on foot care knowledge and practice of patients with type 2 diabetes in rural Bangladesh.* **BMC Primary Care.** 2026;27(1):157. [DOI](https://doi.org/10.1186/s12875-026-03277-7)
 
 For my complete publication record, visit my [Google Scholar](https://scholar.google.com/citations?user=-66eDEEAAAAJ&hl=en) profile.
 
