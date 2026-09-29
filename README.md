@@ -5,6 +5,7 @@
 I am a medical doctor and public-health researcher based in Dhaka, Bangladesh. My work focuses on epidemiology, preventive medicine, health systems, and evidence-informed public-health research.
 
 - 🏥 National Institute of Preventive and Social Medicine (NIPSOM)
+- 🏥 Faridpur Medical College (FMC)
 - 📍 Dhaka, Bangladesh
 - 🔬 Interests: Epidemiology, Public Health, Preventive Medicine, Health Systems Research, Research Methods, and Project Management
 
