@@ -49,5 +49,7 @@ I welcome research collaborations in environmental and occupational health, canc
 
 [ORCID](https://orcid.org/0000-0003-1823-3649) ·
 [Google Scholar](https://scholar.google.com/citations?user=-66eDEEAAAAJ&hl=en) ·
+[Web of Science](https://www.webofscience.com/wos/author/record/MBN-1809-2025) ·
 [ResearchGate](https://www.researchgate.net/profile/Mohibbul-Haque) ·
 [LinkedIn](https://www.linkedin.com/in/mohibbul-haque-253100192/)
+
